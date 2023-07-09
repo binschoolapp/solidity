@@ -3,9 +3,7 @@
 本章学习如何编写、编译、部署和运行一个 **`Solidity`** 智能合约。
 
 **视频**：[Bilibili](https://#)  |  [Youtube](https://#)
-
-![](./img/solidity-basic-v2.png#pic_center)
-<p><img src="./img/solidity-basic-v2.png" align="center" /></p>
+<p align="center"><img src="./img/solidity-basic-v2.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
@@ -25,7 +23,8 @@
 通常，我们使用更容易理解的 **`Solidity`** 语言来编写智能合约，然后使用编译器将其编译为二进制代码，最后在以太坊虚拟机上执行。
 
 这个过程如下所示：
-![](./img/contract-compile.png)
+<p align="center"><img src="./img/contract-compile.png" align="middle" width="600px" /></p>
+
 ## Solidity 智能合约示例
 
 以下代码就是一个简单的 **`Solidity`** 智能合约：
@@ -59,44 +58,44 @@ contract HelloWorld{
 
 Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.ethereum.org/)，这是一个以太坊基金会的官方开源项目，可放心使用。
 
-![](./img/remix.png)
+<p align="center"><img src="./img/remix.png" align="middle" width="800px" /></p>
 
 
 ### 1.  编写代码
 在 **`File explorers`** 选项卡下，新建一个 **HelloWorld.sol** 文件。**`Solidity`** 的源代码文件通常以 **.sol** 为后缀。
 
-![](./img/remix-newfile.png)
+<p align="center"><img src="./img/remix-newfile.png" align="middle" width="800px" /></p>
 
 将上面的代码原样复制到右边的【代码编辑区】，使用 **`Ctrl+s`** 进行保存。
 
-![](./img/remix-codearea.png)
+<p align="center"><img src="./img/remix-codearea.png" align="middle" width="800px" /></p>
 
 ### 2. 编译代码
 在 **`Compiler`** 选项卡下，点击 **`Compile`** 按钮，开始编译。
 
-![](./img/remix-compile.png)
+<p align="center"><img src="./img/remix-compile.png" align="middle" width="800px" /></p>
 
 如果代码中没有错误，编译成功，那么就会在编译图标上出现一个绿色对钩。
 
-![](./img/remix-compile-succ.png)
+<p align="center"><img src="./img/remix-compile-succ.png" align="middle" width="400px" /></p>
 
 如果代码中存在错误，那么就会在下方给出错误提示信息。
 
 ### 3. 部署合约
 在 **`Run`** 选项卡下，点击 **`Deploy`** 按钮进行部署。
 
-![](./img/remix-deploy.png)
+<p align="center"><img src="./img/remix-deploy.png" align="middle" width="800px" /></p>
 
 在 **`Remix`** 的下方，就会出现已部署成功合约的地址： **`HELLOWORLD AT 0XD8B...33FA8`**。
 
-![](./img/remix-deployresult.png)
+<p align="center"><img src="./img/remix-deployresult.png" align="middle" width="800px" /></p>
 
 其中 **`0XD8B...33FA8`** 就是刚刚部署的智能合约的地址。这个地址在不同的机器上可能不相同。
 
 ### 4. 运行合约
 点击 **`HELLOWORLD AT 0XD...`** 前面的小箭头，会出现 **`greet`** 按钮。 点击 **`greet`** 按钮，将会执行合约的 **`greet`** 函数，并显示执行结果。
 
-![](./img/remix-run.png)
+<p align="center"><img src="./img/remix-run.png" align="middle" width="800px" /></p>
 
 输出结果为：
 
