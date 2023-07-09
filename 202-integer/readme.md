@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;5.SPDX 版权声明 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;2.整型 
 
 本章学习 **`Solidity`** 数据类型中的整型，以及整型的相关运算。
 
@@ -106,7 +106,7 @@ contract ValueTypes{
 
 包括：无符号整型 uint8、uint16、uint24、uint32......uint256，有符号整型 int8、int16、int24、int32......int256。
 
-其中，我们常用的 **`uint`** 就是 **`uint256`** 的别名 ，**`int`** 就是 **`int256`** 的别名 ，它们两者是完全相同。
+其中，我们常用的 **`uint`** 就是 **`uint256`** 的别名 ，**`int`** 就是 **`int256`** 的别名 ，它们两者完全相同。
 
 ### 1. 极限值
 
