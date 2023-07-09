@@ -18,7 +18,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract HelloWorld{
+contract HelloWorld {
+
   function greet() public pure returns(string memory) { 
     return "Hello World"; 
   } 
@@ -32,9 +33,12 @@ contract HelloWorld{
 但是，如果我们在代码中去除了 **`SPDX`** 语句，那么在编译合约的时候，就会出现下面的警告信息：
 
 ```solidity
-Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information. 
+Warning: SPDX license identifier not provided in source file. Before publishing,
+consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file.
+Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code.
+Please see https://spdx.org for more information. 
 ```
-<p align="center"><img src="./img/remix-spdx-warning.png" align="middle" width="800px" /></p>
+<p align="center"><img src="./img/solidity-spdx-warning.png" align="middle" width="800px" /></p>
 
 大意是：源文件缺少 **`SPDX`** 许可证标识，建议在发布前，使用 SPDX-License-Identifier 标识加上注释。
 
@@ -69,7 +73,7 @@ Warning: SPDX license identifier not provided in source file. Before publishing,
 
 在任何情况下，对于因本软件或本软件的使用或其他交易而引起、引起或与之相关的任何索赔、损害赔偿或其他责任，无论是在合同诉讼、侵权行为还是其他方面，均不承担任何责任。
 
-简而言之，采用 **`MIT`** 许可证，就意味着任何人都能以任何方式使用代码，但是出了问题不负责。
+**简而言之，采用** **`MIT`** **许可证，就意味着任何人都能以任何方式使用代码，但是出了问题不负责**。
 
 通常，我们都会选择 **`MIT`** 作为智能合约的版权许可证，这也是大多数知名开源项目的选择。
 
@@ -96,7 +100,7 @@ Warning: SPDX license identifier not provided in source file. Before publishing,
 
 但是，智能合约最终是要发布到区块链上的，任何人都可以得到它的二进制代码。在代码量不大的情况下，还是非常容易被整体或者局部反编译，因而达不到保护源码的目的。
 
-知名的 **`Defi`** 巨头 **`UniSwap`**，它的合约代码虽然是开源的，但许可证采用了 BUSL，并不是 **`MIT`**。
+知名的 **`Defi`** 巨头 **`UniSwap`**，它的合约代码虽然是开源的，但许可证采用了 **`BUSL`**，并不是 **`MIT`**。
 
 ```solidity
 // SPDX-License-Identifier: BUSL-1.1
