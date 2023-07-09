@@ -9,7 +9,7 @@
 
 **代码**：[github.com/binschoolapp/solidity-basic](https://github.com/binschoolapp/solidity-basic)
 
-**推特**：[@BinSchoolApp](https://#)    **Discord**：[BinSchoolApp](https://#)   **微信**：bkra50 
+**推特**：[@BinSchoolApp](https://twitter.com/BinSchoolApp)    **Discord**：[BinSchoolApp](https://discord.gg/PB2YEvggWq)   **微信**：bkra50 
 
 -----
 使用 **`Solidity`** 编写的智能合约，并不能直接在以太坊区块链上运行，还需要经过编译和部署两个步骤。
