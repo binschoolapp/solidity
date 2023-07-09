@@ -1,11 +1,15 @@
-# BinSchool Solidity基础教程: 2.编译、部署和运行智能合约
+# Solidity基础教程:   2.编译、部署和运行智能合约 
 
 本章学习如何编写、编译、部署和运行一个 Solidity 智能合约。
 
-视频：[Bilibili](#)  |  [Youtube](#)
+视频：[Bilibili](https://#)  |  [Youtube](https://#)
+
 官网：[BinSchoolApp](https://binschool.app)
+
 代码：[github.com/binschoolapp/solidity-basic](https://github.com/binschoolapp/solidity-basic)
-推特：[@BinSchoolApp]    Discord：[BinSchoolApp]   微信：bkra50 
+
+推特：[@BinSchoolApp](https://#)    Discord：[BinSchoolApp](https://#)   微信：bkra50 
+
 -----
 使用 `Solidity` 编写的智能合约，并不能直接在以太坊区块链上运行，还需要经过编译和部署两个步骤。
 
@@ -22,6 +26,7 @@
 
 ## Solidity 智能合约示例
 以下代码就是一个简单的 Solidity 智能合约：
+
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -81,7 +86,9 @@ Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.eth
 ![](./img/remix-run.jpg)
 
 输出结果为：
+
 ```solidity
 0: string: Hello World
 ```
+
 这表示，执行结果只返回一个字符串，内容为 Hello World。
