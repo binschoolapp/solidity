@@ -91,7 +91,7 @@ pragma solidity ^0.8.0;
 
 ```solidity
 contract HelloWorld {
-...
+  //...
 } 
 ```
 
@@ -120,7 +120,9 @@ string greeting = "Hello World";
 ## 第 5 行：函数
 
 ```solidity
-function greet() public view returns(string memory) {...}
+function greet() public view returns(string memory) {
+  //...
+}
 ```
 
 **`function`** 是一个保留字，用来声明一个函数。函数名称可以是任意字符串，但必须以字母或者下划线“_”开头。
