@@ -40,7 +40,7 @@ uint256 account = 100; // 金额
 
 ### 2. 多行注释
 
-以斜杠和星号（/* */）包裹的注释表示多行注释，它可以跨越多行。例如：
+以斜杠和星号 **（/* */）** 包裹的注释表示多行注释，它可以跨越多行。例如：
 
 ```solidity
 /*
@@ -52,9 +52,9 @@ uint256 account = 100; // 金额
 
 ### 3. NATSpec 格式
 
-NATSpec 格式，也就是以太坊自然语言规范格式，这是 Solidity 社区推荐的注释方式。
+NATSpec 格式，也就是以太坊自然语言规范格式，这是 **`Solidity`** 社区推荐的注释方式。
 
-NATSpec 格式使用 /// 加上标签的注释方法，进行单行注释。使用 /**... */ 进行多行注释。
+NATSpec 格式使用 **///** 加上标签的注释方法，进行单行注释。使用 /**... */ 进行多行注释。
 
 这种注释方式的好处是输入时比较方便，视觉效果更整洁，最重要的是，它能够配合 注释标签 与其它开发工具进行集成。
 
@@ -79,7 +79,7 @@ contract Calculator {
 
 ## 注释标签
 
-在 **`Solidity`** 中，注释标签是一种特殊的注释。这些注释标签以“@”符号开头，并在后面跟着标签名称和标签值。
+在 **`Solidity`** 中，注释标签是一种特殊的注释。这些注释标签以 **“@”** 符号开头，并在后面跟着标签名称和标签值。
 
 ```solidity
 /// @title 计算器合约
@@ -103,11 +103,11 @@ contract Calculator {
 | Tag	| 用途 | 适用对象|
 |:----|:-----|:------|
 | @title|	描述合约的标题|	contract, interface|
-| @author| 描述作者姓名	contract, interface, function|
-| @notice| 描述合约或者函数的功能	contract, interface, function|
-| @dev|	提供给开发人员的实现细节	contract, interface, function|
-| @param|	提供函数参数说明	function|
-| @return| 提供函数返回值说明	function|
+| @author| 描述作者姓名|	contract, interface, function|
+| @notice| 描述合约或者函数的功能|	contract, interface, function|
+| @dev|	提供给开发人员的实现细节|	contract, interface, function|
+| @param|	提供函数参数说明|	function|
+| @return| 提供函数返回值说明|	function|
 
 ## 选择何种注释方式
 
