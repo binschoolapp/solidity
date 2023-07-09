@@ -74,6 +74,7 @@ Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.eth
 ![](./img/remix-compile.png)
 
 如果代码中没有错误，编译成功，那么就会在编译图标上出现一个绿色对钩。
+
 ![](./img/remix-compile-succ.png)
 
 如果代码中存在错误，那么就会在下方给出错误提示信息。
@@ -84,6 +85,7 @@ Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.eth
 ![](./img/remix-deploy.png)
 
 在 `Remix` 的下方，就会出现已部署成功合约的地址： `HELLOWORLD AT 0XD8B...33FA8`。
+
 ![](./img/remix-deployresult.png)
 
 其中 `0XD8B...33FA8` 就是刚刚部署的智能合约的地址。这个地址在不同的机器上可能不相同，
