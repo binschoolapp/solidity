@@ -67,7 +67,7 @@ int a_mod_b = a % b; // a_mod_b = 2
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypes {
+contract IntegerOps {
   int public a = 2;
   int public b = 3;
   int public a_add_b = a + b; // a_add_b = 5
@@ -92,7 +92,7 @@ contract ValueTypes {
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypesError {
+contract IntegerError {
   uint public a = 2;
   uint public b = 3;
   uint public a_sub_b = a - b; 
@@ -118,7 +118,7 @@ contract ValueTypesError {
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypesLimit {
+contract IntegerLimit {
   int public max = type(uint8).max; 
   int public min = type(uint8).min; 
 }
@@ -132,7 +132,7 @@ contract ValueTypesLimit {
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypesDefault {
+contract IntegerDefault {
   int public value_int; // value_int = 0
   int8 public value_int8; // value_int8 = 0
   uint public value_uint; // value_uint = 0

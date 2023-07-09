@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypes {
+contract BoolOps {
   bool public a = true;
   bool public b = false;
   bool public not_a = !a;  // not_a = false

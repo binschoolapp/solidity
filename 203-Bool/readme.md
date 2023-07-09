@@ -66,7 +66,7 @@ bool c = a || b; // c = false
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypes {
+contract BoolOps {
   bool public a = true;
   bool public b = false;
   bool public not_a = !a;  // not_a = false
@@ -93,7 +93,7 @@ contract ValueTypes {
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypesDefault {
+contract BoolDefault {
   bool public value_bool; // value_bool = false
 }
 ```
