@@ -26,7 +26,7 @@
 
 ### 1. 单行注释
 
-以双斜杠（//）开头的注释表示为单行注释。单行注释只能在同一行中使用，而且只对一行有效。例如：
+以双斜杠 **//** 开头的注释表示为单行注释。单行注释只能在同一行中使用，而且只对一行有效。例如：
 
 ```solidity
 // 这是一个单行注释
@@ -40,7 +40,7 @@ uint256 account = 100; // 金额
 
 ### 2. 多行注释
 
-以斜杠和星号 **（/* */）** 包裹的注释表示多行注释，它可以跨越多行。例如：
+以斜杠和星号 /* */ 包裹的注释表示多行注释，它可以跨越多行。例如：
 
 ```solidity
 /*
@@ -54,7 +54,7 @@ uint256 account = 100; // 金额
 
 NATSpec 格式，也就是以太坊自然语言规范格式，这是 **`Solidity`** 社区推荐的注释方式。
 
-NATSpec 格式使用 **///** 加上标签的注释方法，进行单行注释。使用 /**... */ 进行多行注释。
+NATSpec 格式使用 /// 加上标签的注释方法，进行单行注释。使用 /**... */ 进行多行注释。
 
 这种注释方式的好处是输入时比较方便，视觉效果更整洁，最重要的是，它能够配合 注释标签 与其它开发工具进行集成。
 
@@ -87,6 +87,7 @@ contract Calculator {
 /// @notice 这是功能描述
 /// @dev 这里是实现细节
 contract Calculator {
+
 }
 ```
 
@@ -121,6 +122,7 @@ contract Calculator {
 /// @title Canonical Uniswap V3 factory
 /// @notice Deploys Uniswap V3 pools and manages ownership
 contract UniswapV3Factory is IUniswapV3Factory, UniswapV3PoolDeployer, NoDelegateCall {
+
 }
 ```
 
@@ -136,6 +138,7 @@ contract UniswapV3Factory is IUniswapV3Factory, UniswapV3PoolDeployer, NoDelegat
  *
  **/
  contract ERC20 is Context, IERC20, IERC20Metadata {
+
  }
 ```
 
