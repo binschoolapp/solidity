@@ -67,7 +67,7 @@ int a_mod_b = a % b; // a_mod_b = 2
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypes{
+contract ValueTypes {
   int public a = 2;
   int public b = 3;
   int public a_add_b = a + b; // a_add_b = 5
