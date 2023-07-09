@@ -1,4 +1,4 @@
-# Solidity基础教程:   1.编译、部署和运行智能合约 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;1. 概述 
 
 本章讲解与 **`Solidity`** 相关的基本概念，以及为什么要学习 **`Solidity`**，如何学习 **`Solidity`**。
 
@@ -12,11 +12,11 @@
 **推特**：[@BinSchoolApp](https://twitter.com/BinSchoolApp)    **Discord**：[BinSchoolApp](https://discord.gg/PB2YEvggWq)   **微信**：bkra50 
 
 -----
-**`Solidity`** 是一种面向对象的静态编程语言，用于在以太坊区块链上编写智能合约。
+ <img src="./img/solidity.png" align="left" />  **`Solidity`** 是一种面向对象的静态编程语言，用于在以太坊区块链上编写智能合约。
 
-**`Solidity`** 深受 **C++、Python 和 JavaScript** 等编程语言的影响，语法与它们非常相似，但是 **`Solidity`** 针对以太坊虚拟机进行了专门的设计。
+**`Solidity`** 深受 C++、Python 和 JavaScript 等编程语言的影响，语法与它们非常相似，但是 **`Solidity`** 针对以太坊虚拟机进行了专门的设计。
 
-我们可以使用 **`Solidity`** 在以太坊区块链上创建**代币、NFT、投票、DeFi 以及 GameFi** 等各种类型的智能合约。
+我们可以使用 **`Solidity`** 在以太坊区块链上创建 代币、NFT、投票、DeFi 以及 GameFi 等各种类型的智能合约。
 
 学习 **`Solidity`** 之前，先要搞清楚几个基本概念：以太坊虚拟机是什么，智能合约又是什么。
 
@@ -24,6 +24,8 @@
 **`Solidity`** 用于在以太坊区块链上编写智能合约，那么以太坊又是什么呢？
 
 以太坊，英文名称为 **`Ethereum`**，它是一个能够运行智能合约的区块链平台。它由 **`Vitalik Buterin`**（维塔利克·布特林，又称为V神）和合伙人共同创建，并于2014年正式发布。
+
+<p align="center"><img src="./img/evm.png" align="middle"/></p>
 
 以太坊虚拟机，英文缩写为 **`EVM`**，是以太坊上智能合约的运行环境。换句话来说，以太坊使用 **`EVM`**` 来运行智能合约。
 
@@ -47,7 +49,7 @@
 ## Solidity 的应用范围
 使用 **`Solidity`** 编写的智能合约，不仅能够部署和运行在以太坊上，还适用于币安链 **BSC、Polygon、Arbitrum** 等任何兼容以太坊虚拟机的区块链。
 
-当然，并不是所有区块链上的智能合约都能使用 **`Solidity`** 编写，有些区块链就不支持 **`Solidity`**，比如高性能链 **`Aptos**`，它使用 **`Move**` 语言来编写智能合约。
+当然，并不是所有区块链上的智能合约都能使用 **`Solidity`** 编写，有些区块链就不支持 **`Solidity`**，比如高性能链 **`Aptos`**，它使用 **`Move`** 语言来编写智能合约。
 
 但是，在目前的公链领域里，以太坊及其兼容链占据了绝大部分份额，其它公链所占份额极低。所以，我们只要掌握了 **`Solidity`** 语言，就能够编写适用于大多数场景下的智能合约。
 
