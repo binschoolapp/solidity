@@ -23,7 +23,6 @@
 
 这个过程如下所示：
 ![](./img/contract-compile.png)
-
 ## Solidity 智能合约示例
 以下代码就是一个简单的 Solidity 智能合约：
 
@@ -58,32 +57,32 @@ Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.eth
 
 ### 1.  编写代码
 在 `File explorers` 选项卡下，新建一个 HelloWorld.sol 文件。Solidity 的源代码文件通常以 .sol 为后缀。
-![](./img/remix-newfile.jpg)
+![](./img/remix-newfile.png)
 
 将上面的代码原样复制到右边的【代码编辑区】，使用 Ctrl+s 进行保存。
-![](./img/remix-codearea.jpg)
+![](./img/remix-codearea.png)
 
 ### 2. 编译代码
 在 `Compiler` 选项卡下，点击 `Compile` 按钮，开始编译。
-![](./img/remix-compile.jpg)
+![](./img/remix-compile.png)
 
 如果代码中没有错误，编译成功，那么就会在编译图标上出现一个绿色对钩。
-![](./img/remix-compile-succ.jpg)
+![](./img/remix-compile-succ.png)
 
 如果代码中存在错误，那么就会在下方给出错误提示信息。
 
 ### 3. 部署合约
 在 `Run` 选项卡下，点击 `Deploy` 按钮进行部署。
-![](./img/remix-deploy.jpg)
+![](./img/remix-deploy.png)
 
 在 Remix 的下方，就会出现已部署成功合约的地址： HELLOWORLD AT 0XD8B...33FA8。
-![](./img/remix-deployresult.jpg)
+![](./img/remix-deployresult.png)
 
 其中 0XD8B...33FA8 就是刚刚部署的智能合约的地址。这个地址在不同的机器上可能不相同，
 
 ### 4. 运行合约
 点击 HELLOWORLD AT 0XD... 前面的小箭头，会出现 `greet` 按钮。 点击 `gree` 按钮，将会执行合约的 `greet` 函数，并显示执行结果。
-![](./img/remix-run.jpg)
+![](./img/remix-run.png)
 
 输出结果为：
 
