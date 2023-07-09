@@ -2,13 +2,13 @@
 
 本章学习如何编写、编译、部署和运行一个 Solidity 智能合约。
 
-视频：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
 
-官网：[BinSchoolApp](https://binschool.app)
+**官网**：[BinSchoolApp](https://binschool.app)
 
-代码：[github.com/binschoolapp/solidity-basic](https://github.com/binschoolapp/solidity-basic)
+**代码**：[github.com/binschoolapp/solidity-basic](https://github.com/binschoolapp/solidity-basic)
 
-推特：[@BinSchoolApp](https://#)    Discord：[BinSchoolApp](https://#)   微信：bkra50 
+**推特**：[@BinSchoolApp](https://#)    **Discord**：[BinSchoolApp](https://#)   **微信**：bkra50 
 
 -----
 使用 `Solidity` 编写的智能合约，并不能直接在以太坊区块链上运行，还需要经过编译和部署两个步骤。
@@ -24,13 +24,15 @@
 这个过程如下所示：
 ![](./img/contract-compile.png)
 ## Solidity 智能合约示例
-以下代码就是一个简单的 Solidity 智能合约：
+
+以下代码就是一个简单的 `Solidity` 智能合约：
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract HelloWorld{
+
   function greet() public pure returns(string memory) { 
     return "Hello World"; 
   } 
@@ -42,28 +44,33 @@ contract HelloWorld{
 
 在本章课程中，我们首先学习如何编写、编译、部署和运行一个智能合约。
 
+
 ## Remix 集成开发环境
-由于 `EVM` 只能运行二进制编码的智能合约，所以，我们就需要一个工具，能够把 Solidity 编写的代码，翻译为 EVM 能够运行的二进制代码。这个翻译的过程就叫做 编译，这个翻译的工具称为 编译器。
+由于 `EVM` 只能运行二进制编码的智能合约，所以，我们就需要一个工具，能够把 `Solidity` 编写的代码，翻译为 `EVM` 能够运行的二进制代码。这个翻译的过程就叫做 编译，这个翻译的工具称为 `编译器`。
 
-Solidity 编译器有很多，比如：Remix、Solc、Truffle、Hardhat 等。其中，Remix 就是一款优秀的智能合约开发工具，它集成了编写、编译、部署、运行和测试智能合约的全流程功能，而且简单、直观、易于使用。
+`Solidity` 编译器有很多，比如：Remix、Solc、Truffle、Hardhat 等。其中，`Remix` 就是一款优秀的智能合约开发工具，它集成了编写、编译、部署、运行和测试智能合约的全流程功能，而且简单、直观、易于使用。
 
-更为方便的是，Remix 可以在线使用，无需在本地电脑上安装。所以，Remix 非常适合于初学者学习和使用。当然，高级开发者也经常用它来做一些验证和实验等工作。
+更为方便的是，`Remix` 可以在线使用，无需在本地电脑上安装。所以，`Remix` 非常适合于初学者学习和使用。当然，高级开发者也经常用它来做一些验证和实验等工作。
 
-我们的教程就使用了 Remix 来编写、编译和部署智能合约。
+我们的教程就使用了 `Remix` 来编写、编译和部署智能合约。
 
 Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.ethereum.org/)，这是一个以太坊基金会的官方开源项目，可放心使用。
+
 ![](./img/remix.png)
 
 
 ### 1.  编写代码
-在 `File explorers` 选项卡下，新建一个 HelloWorld.sol 文件。Solidity 的源代码文件通常以 .sol 为后缀。
+在 **`File explorers`** 选项卡下，新建一个 **HelloWorld.sol** 文件。`Solidity` 的源代码文件通常以 **.sol** 为后缀。
+
 ![](./img/remix-newfile.png)
 
-将上面的代码原样复制到右边的【代码编辑区】，使用 Ctrl+s 进行保存。
+将上面的代码原样复制到右边的【代码编辑区】，使用 **`Ctrl+s`** 进行保存。
+
 ![](./img/remix-codearea.png)
 
 ### 2. 编译代码
-在 `Compiler` 选项卡下，点击 `Compile` 按钮，开始编译。
+在 **`Compiler`** 选项卡下，点击 **`Compile`** 按钮，开始编译。
+
 ![](./img/remix-compile.png)
 
 如果代码中没有错误，编译成功，那么就会在编译图标上出现一个绿色对钩。
@@ -72,16 +79,18 @@ Remix 开发工具的地址为：[https://remix.ethereum.org/](https://remix.eth
 如果代码中存在错误，那么就会在下方给出错误提示信息。
 
 ### 3. 部署合约
-在 `Run` 选项卡下，点击 `Deploy` 按钮进行部署。
+在 **`Run`** 选项卡下，点击 **`Deploy`** 按钮进行部署。
+
 ![](./img/remix-deploy.png)
 
-在 Remix 的下方，就会出现已部署成功合约的地址： HELLOWORLD AT 0XD8B...33FA8。
+在 `Remix` 的下方，就会出现已部署成功合约的地址： `HELLOWORLD AT 0XD8B...33FA8`。
 ![](./img/remix-deployresult.png)
 
-其中 0XD8B...33FA8 就是刚刚部署的智能合约的地址。这个地址在不同的机器上可能不相同，
+其中 `0XD8B...33FA8` 就是刚刚部署的智能合约的地址。这个地址在不同的机器上可能不相同，
 
 ### 4. 运行合约
-点击 HELLOWORLD AT 0XD... 前面的小箭头，会出现 `greet` 按钮。 点击 `gree` 按钮，将会执行合约的 `greet` 函数，并显示执行结果。
+点击 **`HELLOWORLD AT 0XD...`** 前面的小箭头，会出现 **`greet`** 按钮。 点击 `gree` 按钮，将会执行合约的 `greet` 函数，并显示执行结果。
+
 ![](./img/remix-run.png)
 
 输出结果为：
