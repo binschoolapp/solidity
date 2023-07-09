@@ -34,6 +34,8 @@ contract HelloWorld {
 ## 智能合约的组成
 一个典型的智能合约，通常由 4 个部分组成，分别是：**声明部分**、**合约定义部分**、**状态变量部分** 和 **函数部分**。其中，状态变量部分和函数部分是智能合约的主体。
 
+<p align="center"><img src="./img/contract-structure.png" align="middle" width="500px" /></p>
+
 下面，我们将逐条语句分析这个合约的代码。
 
 ## 第 1 行：版权声明
@@ -111,7 +113,7 @@ contract HelloWorld {
 string greeting = "Hello World";
 ```
 
-**`string`** 是数据类型，表示一个字符串，greeting 是状态变量的名称。状态变量的名称可以是任意字符串，但必须以字母或者下划线“_”开头。
+**`string`** 是数据类型，表示一个字符串，**`greeting`** 是状态变量的名称。状态变量的名称可以是任意字符串，但必须以字母或者下划线“_”开头。
 
 通常，比较规范的写法是采用驼峰形式，但是整体以小写字母或者下划线“_”开头。
 
@@ -136,7 +138,9 @@ function greet() public view returns(string memory) {
 ## 测试
 按照上一章讲述的内容，我们可以使用 **`Remix`** 编写、编译、部署和运行这个合约。
 
-当我们调用函数 **greet`** 后，输出结果为：
+<p align="center"><img src="./img/remix-codearea.png" align="middle" width="800px" /></p>
+
+当我们调用函数 **`greet`** 后，输出结果为：
 
 ```solidity
 Hello World
