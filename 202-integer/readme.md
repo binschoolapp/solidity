@@ -92,7 +92,7 @@ contract ValueTypes{
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypes{
+contract ValueTypesError {
   uint public a = 2;
   uint public b = 3;
   uint public a_sub_b = a - b; 
@@ -118,7 +118,7 @@ contract ValueTypes{
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypes{
+contract ValueTypesLimit {
   int public max = type(uint8).max; 
   int public min = type(uint8).min; 
 }
@@ -132,7 +132,7 @@ contract ValueTypes{
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ValueTypes{
+contract ValueTypesDefault {
   int public value_int; // value_int = 0
   int8 public value_int8; // value_int8 = 0
   uint public value_uint; // value_uint = 0
