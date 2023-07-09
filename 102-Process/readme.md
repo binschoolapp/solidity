@@ -4,6 +4,9 @@
 
 **视频**：[Bilibili](https://#)  |  [Youtube](https://#)
 
+![](./img/solidity-basic-v2.png#pic_center)
+<p><img src="./img/solidity-basic-v2.png" align="center" /></p>
+
 **官网**：[BinSchoolApp](https://binschool.app)
 
 **代码**：[github.com/binschoolapp/solidity-basic](https://github.com/binschoolapp/solidity-basic)
