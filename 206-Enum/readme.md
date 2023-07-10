@@ -32,7 +32,7 @@ enum gender {male, female}
 gender a = gender.male;
 ```
 
-注意事项：
+**注意事项：**
 
 1.  枚举列表不能为空，至少要包含一个成员，否则编译器将会报错。
 
