@@ -14,7 +14,7 @@
 -----
 在 **`Solidity`** 中，**`枚举型`** 是一种用户自定义的数据类型，它需要在使用之前进行定义。
 
-要定义一个 **`枚举型`**，可以使用关键字 **`enum`**。枚举型 由一组预定义的常量组成，这些常量在枚举列表中定义。
+要定义一个 **`枚举型`**，可以使用关键字 **`enum`**。**`枚举型`** 由一组预定义的常量组成，这些常量在枚举列表中定义。
 
 例如：
 
@@ -36,11 +36,11 @@ gender a = gender.male;
 
 1.  枚举列表不能为空，至少要包含一个成员，否则编译器将会报错。
 
-<p align="center"><img src="./img/enum-empty-members.png" align="middle"/></p>
+<p align="center"><img src="./img/enum-empty-members.png" align="middle" width="300px"/></p>
 
 2. 定义枚举型的语句，后面不需要跟着分号。一般大括号的后面都不需要跟着分号，如果跟着分号，编译器会报错。
 
-<p align="center"><img src="./img/enum-add-comma.png" align="middle"/></p>
+<p align="center"><img src="./img/enum-add-comma.png" align="middle" width="300px"/></p>
 
 3. 枚举型只能在全局空间内声明，不能在函数内声明。通常是在状态变量前面的位置声明。
 
