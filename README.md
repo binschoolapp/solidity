@@ -18,3 +18,9 @@
 **203：布尔型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/203-Bool) | [文章](http://binschool.app/solidity-basic/solidity-bool.html)
 
 **204：地址型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/204-Address) | [文章](http://binschool.app/solidity-basic/solidity-address.html)
+
+**205：浮点型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/204-Float) | [文章](http://binschool.app/solidity-basic/solidity-float.html)
+
+**206：枚举型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/206-Enum) | [文章](http://binschool.app/solidity-basic/solidity-enum.html)
+
+**301：变量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/301-Variable) | [文章](http://binschool.tech/solidity-basic/solidity-variable.html)
