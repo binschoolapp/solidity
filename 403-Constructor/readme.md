@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;2.状态可变性
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;3.构造函数
 
 本章学习智能合约的构造函数。
 
