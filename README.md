@@ -23,4 +23,6 @@
 
 **206：枚举型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/206-Enum) | [文章](https://binschool.app/solidity-basic/solidity-enum.html)
 
-**301：变量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/301-Variable) | [文章](https://binschool.spp/solidity-basic/solidity-variable.html)
+**301：变量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/301-Variable) | [文章](https://binschool.app/solidity-basic/solidity-variable.html)
+
+**302：可见性**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/302-Visibility) | [文章](https://binschool.app/solidity-basic/solidity-visibility.html)
