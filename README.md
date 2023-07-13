@@ -44,5 +44,5 @@
 
 ## Soldity 控制语句
 
-**501：运算符**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/501-Operator) | [文章](https://binschool.app/solidity-basic/solidity-operato.html)
+**501：运算符**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/501-Operator) | [文章](https://binschool.app/solidity-basic/solidity-operator.html)
 
