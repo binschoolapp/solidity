@@ -90,7 +90,7 @@ contract Assert {
 
 **`require`** 和 **`assert`** 都能终止函数的执行，并回滚交易，但两者有一些区别。
 
-**`require`** 和 **`assert`** 参数不同，**`require`** 可以带有一个说明原因的参数，assert 没有这个参数。
+**`require`** 和 **`assert`** 参数不同，**`require`** 可以带有一个说明原因的参数，**`assert`** 没有这个参数。
 
 **`require`** 通常用于检查外部输入是否满足要求，而 **`assert`** 用于捕捉内部编程错误和异常情况。
 
