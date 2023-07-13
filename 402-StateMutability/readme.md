@@ -41,6 +41,7 @@ function add(uint a, uint b) public pure returns(uint) {
 pragma solidity ^0.8.0;
 
 contract MutabilityPure {
+
    function sum() public pure returns(uint){
       uint a = 2;  // 局部变量 a
       uint b = 3;  // 局部变量 b
@@ -138,6 +139,7 @@ contract MutabilityNone {
 pragma solidity ^0.8.0;
 
 contract MutabilityPayable {
+  
    // 投注函数标记为 payable，表示它可以接收以太币
    function stake(uint teamID) public payable { 
       // ......
