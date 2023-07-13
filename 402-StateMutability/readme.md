@@ -56,7 +56,7 @@ contract MutabilityPure {
 
 - 读取状态变量
 
-- 访问 <address>.balance
+- 访问 &lt;address&gt;.balance
 
 - 访问任何区块、交易、msg等全局变量
 
@@ -155,7 +155,7 @@ contract MutabilityPayable {
 
 点击投注函数 **`stake`** 后，合约的余额由 0 **`Ether`** 变为 1 **`Ether`**，说明支付的以太币，已经随着调用 **`stake`** 存入了合约中。
 
-<p align="center"><img src="./img/state-payable-result.png" align="middle" width="300px"/></p>
+<p align="center"><img src="./img/state-payable-result.png" align="middle" width="400px"/></p>
 
 ## 5. 状态可变性的作用
 
