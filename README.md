@@ -26,3 +26,5 @@
 **301：变量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/301-Variable) | [文章](https://binschool.app/solidity-basic/solidity-variable.html)
 
 **302：可见性**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/302-Visibility) | [文章](https://binschool.app/solidity-basic/solidity-visibility.html)
+
+**303：可见性**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/303-Default) | [文章](https://binschool.app/solidity-basic/solidity-default.html)
