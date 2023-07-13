@@ -36,6 +36,7 @@ if (condition) {
 pragma solidity ^0.8.0;
 
 contract ConditionIf {
+  
   // 转账函数 
   function transfer(uint256 amount) public pure returns(bool) {
     if (amount == 0) {
