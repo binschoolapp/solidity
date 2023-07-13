@@ -123,7 +123,7 @@ for (初始化; 测试条件; 迭代语句) {
 pragma solidity ^0.8.0;
 
 contract LoopFor {
-  
+
   // 累加函数 
   function sum() public pure returns(uint256) {
     uint256 result = 0; //累加结果
@@ -140,6 +140,7 @@ contract LoopFor {
 
 然后调用 **`sum`** 函数，就会得到返回结果为 55。
 
+<p align="center"><img src="./img/loop-for.png" align="middle" width="800px"/></p>
 
 ## 4. break 语句
 
