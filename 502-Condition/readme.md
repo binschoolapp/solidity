@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;2.运算符
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;2.条件语句
 
 本章学习 **`Solidity`** 中的条件语句。
 
