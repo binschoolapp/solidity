@@ -35,3 +35,5 @@
 **304：常量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/304-Const) | [文章](https://binschool.app/solidity-basic/solidity-const.html)
 
 ## Soldity 函数
+
+**401：函数**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/401-Function) | [文章](https://binschool.app/solidity-basic/solidity-function.html)
