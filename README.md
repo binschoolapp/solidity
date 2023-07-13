@@ -47,3 +47,9 @@
 **501：运算符**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/501-Operator) | [文章](https://binschool.app/solidity-basic/solidity-operator.html)
 
 **502：条件语句**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/502-Condition) | [文章](https://binschool.app/solidity-basic/solidity-condition.html)
+
+**503：循环语句**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/503-Loop) | [文章](https://binschool.app/solidity-basic/solidity-loop.html)
+
+**504：断言语句**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/504-Assert) | [文章](https://binschool.app/solidity-basic/solidity-assert.html)
+
+## Soldity 复合类型
