@@ -43,3 +43,6 @@
 **403：构造函数**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/403-Constructor) | [文章](https://binschool.app/solidity-basic/solidity-constructor.html)
 
 ## Soldity 控制语句
+
+**501：运算符**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/501-Operator) | [文章](https://binschool.app/solidity-basic/solidity-operato.html)
+
