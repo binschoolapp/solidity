@@ -33,3 +33,5 @@
 **303：默认值**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/303-Default) | [文章](https://binschool.app/solidity-basic/solidity-default.html)
 
 **304：常量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/304-Const) | [文章](https://binschool.app/solidity-basic/solidity-const.html)
+
+## Soldity 函数
