@@ -46,3 +46,4 @@
 
 **501：运算符**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/501-Operator) | [文章](https://binschool.app/solidity-basic/solidity-operator.html)
 
+**502：条件语句**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/502-Condition) | [文章](https://binschool.app/solidity-basic/solidity-condition.html)
