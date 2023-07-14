@@ -55,3 +55,5 @@
 ## Soldity 复合类型
 
 **601：数组**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/601-Array) | [文章](https://binschool.app/solidity-basic/solidity-array.html)
+
+**602：字节和字符串**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/602-String) | [文章](https://binschool.app/solidity-basic/solidity-string.html)
