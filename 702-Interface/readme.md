@@ -116,7 +116,6 @@ contract ERC20 is IERC20 {
 
 我们把合约代码复制到 **`Remix`**，进行编译，并部署到区块链上：
 
-
 <p align="center"><img src="./img/interface-impl.png" align="middle" width="800px"/></p>
 
 我们可以看到有 3 个接口函数 name、symbol 和 decimals 可以提供给外部调用。
