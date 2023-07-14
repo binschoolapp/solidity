@@ -17,8 +17,6 @@
 
 **202：整型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/202-Integer) | [文章](https://binschool.app/solidity-basic/solidity-integer.html) | [视频](https://binschool.app/solidity-basic/solidity-integer.html)
 
-**202：整型**：[代码](https://github.com/binschoolapp/solidity
-
 **203：布尔型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/203-Bool) | [文章](https://binschool.app/solidity-basic/solidity-bool.html) | [视频](https://binschool.app/solidity-basic/solidity-bool.html)
 
 **204：地址型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/204-Address) | [文章](https://binschool.app/solidity-basic/solidity-address.html) | [视频](https://binschool.app/solidity-basic/solidity-address.html)
