@@ -64,4 +64,4 @@
 
 **604：映射**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/604-Mapping) | [文章](https://binschool.app/solidity-basic/solidity-mapping.html)
 
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;604. mapping
+## Solidity 面向对象
