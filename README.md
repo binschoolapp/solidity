@@ -73,3 +73,5 @@
 **703：多重继承**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/703-MultiInherit) | [文章](https://binschool.app/solidity-basic/solidity-multi-inherit.html)
 
 ## Solidity 进阶编程
+
+**801：事件**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/801-Event) | [文章](https://binschool.app/solidity-basic/solidity-event.html)
