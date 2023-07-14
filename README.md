@@ -53,3 +53,5 @@
 **504：断言语句**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/504-Assert) | [文章](https://binschool.app/solidity-basic/solidity-assert.html)
 
 ## Soldity 复合类型
+
+**601：数组**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/601-Array) | [文章](https://binschool.app/solidity-basic/solidity-array.html)
