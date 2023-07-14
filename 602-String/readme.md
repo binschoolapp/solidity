@@ -98,7 +98,7 @@ string public myString = "Hello World";
 
 如果想要对字符串中包含的字符进行操作，通常会将它转换为 **`bytes`** 类型。
 
-**`Solidity`** 提供了字节数组 bytes 与字符串 **`string`** 之间的内置转换。
+**`Solidity`** 提供了字节数组 **`bytes`** 与字符串 **`string`** 之间的内置转换。
 
 ### 3.1 bytes 转换 string
 
