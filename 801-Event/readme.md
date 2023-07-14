@@ -117,6 +117,6 @@ event Transfer(address indexed from, address indexed to, uint256 value);
 
 **注意：**
 
-- 1. 一个事件中 **`indexed`** 标记的参数最多有 3 个。
+1. 一个事件中 **`indexed`** 标记的参数最多有 3 个。
 
-- 2. 记录区块链的日志，既可以使用状态变量，也可以使用事件，但事件使用的 gas 要比状态变量低。
+2. 记录区块链的日志，既可以使用状态变量，也可以使用事件，但事件使用的 gas 要比状态变量低。
