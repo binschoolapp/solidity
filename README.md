@@ -65,3 +65,9 @@
 **604：映射**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/604-Mapping) | [文章](https://binschool.app/solidity-basic/solidity-mapping.html)
 
 ## Solidity 面向对象
+
+**701：合约继承**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/701-Inherit) | [文章](https://binschool.app/solidity-basic/solidity-inherit.html)
+
+**702：抽象合约和接口**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/701-Interface) | [文章](https://binschool.app/solidity-basic/solidity-interface.html)
+
+**703：多重继承**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/703-MultiInherit) | [文章](https://binschool.app/solidity-basic/solidity-multi-inherit.html)
