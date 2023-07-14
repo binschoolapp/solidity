@@ -121,7 +121,7 @@ contract LedgerBalance {
 contract Updater {
     //...
 }
-```solidity
+```
 
 - 空1行规则
 
