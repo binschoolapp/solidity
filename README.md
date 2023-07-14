@@ -60,9 +60,9 @@
 
 **602：字节和字符串**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/602-String) | [文章](https://binschool.app/solidity-basic/solidity-string.html)
 
-**603：结构体**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/603-Struct) | [文章](https://binschool.app/solidity-basic/solidity-struct.html)
+**603：结构体 struct**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/603-Struct) | [文章](https://binschool.app/solidity-basic/solidity-struct.html)
 
-**604：映射**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/604-Mapping) | [文章](https://binschool.app/solidity-basic/solidity-mapping.html)
+**604：映射 mapping**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/604-Mapping) | [文章](https://binschool.app/solidity-basic/solidity-mapping.html)
 
 ## Solidity 面向对象
 
@@ -74,4 +74,6 @@
 
 ## Solidity 进阶编程
 
-**801：事件**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/801-Event) | [文章](https://binschool.app/solidity-basic/solidity-event.html)
+**801：事件 event**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/801-Event) | [文章](https://binschool.app/solidity-basic/solidity-event.html)
+
+**802：修饰器 modifier**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/802-Modifier) | [文章](https://binschool.app/solidity-basic/solidity-modifier.html)
