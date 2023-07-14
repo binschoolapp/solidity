@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;5.SPDX 版权声明 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;105.SPDX 版权声明 
 
 本章讲解 **`SPDX`** 语句的作用，以及如何选择版权许可证。
 

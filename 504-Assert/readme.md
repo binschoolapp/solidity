@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;4.断言语句
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;504.断言语句
 
 本章学习 **`Solidity`** 中的断言语句。
 

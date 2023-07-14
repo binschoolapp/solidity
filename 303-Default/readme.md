@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;3.变量默认值
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;303.变量默认值
 
 本章学习 **`Solidity`** 变量的默认值。
 

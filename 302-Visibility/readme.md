@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;2.变量可见性 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;302.变量可见性 
 
 本章学习 **`Solidity`** 状态变量的可见性。
 

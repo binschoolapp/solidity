@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;4.地址型 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;204.地址型 
 
 本章学习 **`Solidity`** 数据类型中的地址型，以及地址型的相关运算。
 

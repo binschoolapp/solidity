@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;4.常量
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;304.常量
 
 本章学习 **`Solidity`** 中的两种常量的定义和用法，以及使用常量的好处。
 

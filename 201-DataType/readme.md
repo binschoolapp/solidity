@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;1.数据类型 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;201.数据类型 
 
 本章学习 **`Solidity`** 的数据类型，以及如何掌握常用的数据类型。
 

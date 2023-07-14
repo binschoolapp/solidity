@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;5.浮点型 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;205.浮点型 
 
 本章学习 **`Solidity`** 数据类型中的浮点型，以及如何正确地处理小数。
 

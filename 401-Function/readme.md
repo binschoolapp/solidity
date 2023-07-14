@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;1.函数
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;401.函数
 
 本章学习函数的定义和使用方法。
 

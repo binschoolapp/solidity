@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;1.概述 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;101.概述 
 
 本章讲解与 **`Solidity`** 相关的基本概念，以及为什么要学习 **`Solidity`**，如何学习 **`Solidity`**。
 

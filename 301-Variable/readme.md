@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;1.变量 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;301.变量 
 
 本章学习 **`Solidity`** 变量的相关知识，包括变量命名、变量类型等。
 

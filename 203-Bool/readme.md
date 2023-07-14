@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;3.布尔型 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;203.布尔型 
 
 本章学习 **`Solidity`** 数据类型中的布尔型，以及布尔型的相关运算。
 

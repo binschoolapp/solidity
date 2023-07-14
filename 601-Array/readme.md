@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;1.数组
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;601.数组
 
 本章学习 **`Solidity`** 数组的定义语法和使用方法。
 

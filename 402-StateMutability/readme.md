@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;2.状态可变性
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;402.状态可变性
 
 本章学习函数的状态可变性。
 

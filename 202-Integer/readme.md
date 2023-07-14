@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;2.整型 
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;202.整型 
 
 本章学习 **`Solidity`** 数据类型中的整型，以及整型的相关运算。
 

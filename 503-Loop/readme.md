@@ -1,4 +1,4 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;3.循环语句
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;503.循环语句
 
 本章学习 **`Solidity`** 中的循环语句。
 
