@@ -70,9 +70,9 @@ contract PrivateVisibility {
 所以，在 **`Solidity`** 编程中，状态变量尽可能使用 **`private`** 可见性，而不是其它类型。
 
 ## 3. internal
-如果状态变量的可见性声明为 **`internal`**，也就是内部变量，那么可以在当前合约和它的继承合约的内部访问这个状态变量，而不能从外部访问。
+如果状态变量的可见性声明为 **`internal`**，也就是内部变量，那么就可以在当前合约和它的继承合约的内部访问这个状态变量，但不能从外部访问。
 
-**`internal`** 与 **`private`** 相比，就是 **`internal`** 变量可以在派生的合约中使用，而 **`private`** 变量不能在派生合约中使用，只能在当前合约中使用。
+**`internal`** 与 **`private`** 相比，就是 **`internal`** 变量还可以在继承合约中使用，而 **`private`** 变量就不能在继承合约中使用，只能在当前合约中使用。
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -99,7 +99,8 @@ contract InheritedVisibility is InternalVisibility {
 
 <p align="center"><img src="./img/visibility-internal.png" align="middle" width="800px"/></p>
 
-我们从外部无法看到状态变量 **`delta`**，所以从外部也无法使用它。但 **`delta`** 可以在合约 **`InternalVisibility`** 内部和它的继承合约 **`InheritedVisibility`** 中使用。
+无论是在当前合约，还是在继承合约，我们从外部都看不到状态变量 **`delta`**，所以从外部也无法使用它。
+但 **`delta`** 可以在合约 **`InternalVisibility`** 内部和它的继承合约 **`InheritedVisibility`** 中使用。
 
 ## 4. 默认可见性
 
