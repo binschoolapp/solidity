@@ -4,12 +4,11 @@
 
 **102：编译、部署和运行**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/102-Process) | [文章](https://binschool.app/solidity-basic/solidity-process.html) | [BiliBili](https://www.bilibili.com/video/BV1NW4y1d7XL) | [Youtube](https://youtu.be/oDklL_Bmm04) 
 
-**103：基本结构**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/103-Syntax) | [文章](https://binschool.app/solidity-basic/solidity-syntax.html) | [视频](https://binschool.app/solidity-basic/solidity-syntax.html) 
+**103：基本结构**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/103-Syntax) | [文章](https://binschool.app/solidity-basic/solidity-syntax.html) | [BiliBili](https://www.bilibili.com/video/BV1oh4y157K8) | [Youtube](https://youtu.be/lEV-R30TIOw) 
 
-**104：注释语句**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/104-Note) | [文章](https://binschool.app/solidity-basic/solidity-note.html) | [视频](https://binschool.app/solidity-basic/solidity-note.html)
+**104：注释语句**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/104-Note) | [文章](https://binschool.app/solidity-basic/solidity-note.html) | [BiliBili](https://www.bilibili.com/video/BV19N41127Pk) | [Youtube](https://youtu.be/cvLogvkVg5g) 
 
-
-**105：版权声明**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/105-Spdx) | [文章](https://binschool.app/solidity-basic/solidity-spdx.html) | [视频](https://binschool.app/solidity-basic/solidity-spdx.html)
+**105：版权声明**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/105-Spdx) | [文章](https://binschool.app/solidity-basic/solidity-spdx.html) | [BiliBili](https://www.bilibili.com/video/BV1nj411o7M6) | [Youtube](https://youtu.be/3otW_llb6is) 
 
 ## Soldity 数据类型
 
