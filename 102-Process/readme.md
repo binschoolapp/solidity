@@ -2,7 +2,7 @@
 
 本章学习如何编写、编译、部署和运行一个 **`Solidity`** 智能合约。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://youtu.be/oDklL_Bmm04)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1NW4y1d7XL)  |  [Youtube](https://youtu.be/oDklL_Bmm04)
 <p align="center"><img src="./img/solidity-basic-v2.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

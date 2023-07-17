@@ -2,7 +2,7 @@
 
 本章学习智能合约的基本结构。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://youtu.be/lEV-R30TIOw)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1oh4y157K8)  |  [Youtube](https://youtu.be/lEV-R30TIOw)
 <p align="center"><img src="./img/solidity-basic-v3.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
