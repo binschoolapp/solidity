@@ -3,7 +3,7 @@
 
 本章学习 Solidity 代码如何调试，以及处理异常的常用方法。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 

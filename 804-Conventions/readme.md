@@ -2,7 +2,7 @@
 
 本章学习 Solidity 编程规范，掌握编写智能合约代码的通用规则。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 

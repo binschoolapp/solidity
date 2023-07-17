@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 智能合约中的注释语句。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://youtu.be/cvLogvkVg5g)
 <p align="center"><img src="./img/solidity-basic-v4.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

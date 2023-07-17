@@ -2,7 +2,7 @@
 
 本章学习智能合约的构造函数。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 

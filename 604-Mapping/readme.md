@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 映射类型的定义和使用方法。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 

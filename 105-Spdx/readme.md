@@ -2,7 +2,7 @@
 
 本章讲解 **`SPDX`** 语句的作用，以及如何选择版权许可证。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://youtu.be/3otW_llb6is)
 <p align="center"><img src="./img/solidity-basic-v5.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 数据类型中的地址型，以及地址型的相关运算。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 <p align="center"><img src="./img/solidity-basic-v9.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

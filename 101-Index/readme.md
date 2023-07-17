@@ -2,7 +2,7 @@
 
 本章讲解与 **`Solidity`** 相关的基本概念，以及为什么要学习 **`Solidity`**，如何学习 **`Solidity`**。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://#)
+**视频**：[Bilibili](https://#)  |  [Youtube](https://youtu.be/WwU_05Wl1bo)
 <p align="center"><img src="./img/solidity-basic-v1.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
