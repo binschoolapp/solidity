@@ -1,8 +1,8 @@
 # BinShool Solidity 基础教程
 
-**101：概述**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/101-Index) | [文章](https://binschool.app/solidity-basic/solidity-basic-index.html) | [视频](https://binschool.app/solidity-basic/solidity-basic-index.html) 
+**101：概述**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/101-Index) | [文章](https://binschool.app/solidity-basic/solidity-basic-index.html) | [BiliBili](https://www.bilibili.com/video/BV1c14y1R7L3) | [Youtube](https://youtu.be/WwU_05Wl1bo) 
 
-**102：编译、部署和运行**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/102-Process) | [文章](https://binschool.app/solidity-basic/solidity-process.html) | [视频](https://binschool.app/solidity-basic/solidity-process.html)
+**102：编译、部署和运行**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/102-Process) | [文章](https://binschool.app/solidity-basic/solidity-process.html) | [BiliBili](https://www.bilibili.com/video/BV1NW4y1d7XL) | [Youtube](https://youtu.be/oDklL_Bmm04) 
 
 **103：基本结构**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/103-Syntax) | [文章](https://binschool.app/solidity-basic/solidity-syntax.html) | [视频](https://binschool.app/solidity-basic/solidity-syntax.html) 
 
