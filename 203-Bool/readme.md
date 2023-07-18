@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 数据类型中的布尔型，以及布尔型的相关运算。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV18u411L7Ki)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 <p align="center"><img src="./img/solidity-basic-v8.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
