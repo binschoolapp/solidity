@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 的数据类型，以及如何掌握常用的数据类型。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1UF411Q7Y8)  |  [Youtube](https://youtu.be/PBrn_XJqi0I)
 <p align="center"><img src="./img/solidity-basic-v6.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

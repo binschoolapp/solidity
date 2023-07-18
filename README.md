@@ -12,7 +12,7 @@
 
 ## Soldity 数据类型
 
-**201：数据类型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/201-DataType) | [文章](https://binschool.app/solidity-basic/solidity-datatype.html) | [视频](https://binschool.app/solidity-basic/solidity-datatype.html)
+**201：数据类型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/201-DataType) | [文章](https://binschool.app/solidity-basic/solidity-datatype.html) | [BiliBili](https://www.bilibili.com/video/BV1UF411Q7Y8) | [Youtube](https://youtu.be/PBrn_XJqi0I) 
 
 **202：整型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/202-Integer) | [文章](https://binschool.app/solidity-basic/solidity-integer.html) | [视频](https://binschool.app/solidity-basic/solidity-integer.html)
 
