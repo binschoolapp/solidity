@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 数据类型中的枚举型，以及枚举型的使用方法。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[BiliBili](https://www.bilibili.com/video/BV1Sh4y1L7uJ) | [Youtube](https://youtu.be/kcAsjDCbFqQ) 
 <p align="center"><img src="./img/solidity-basic-v11.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

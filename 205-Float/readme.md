@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 数据类型中的浮点型，以及如何正确地处理小数。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1Xz4y147oJ)  |  [Youtube](https://youtu.be/UyNt6mRXb04)
 <p align="center"><img src="./img/solidity-basic-v10.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

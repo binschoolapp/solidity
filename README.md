@@ -20,10 +20,9 @@
 
 **204：地址型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/204-Address) | [文章](https://binschool.app/solidity-basic/solidity-address.html) | [BiliBili](https://www.bilibili.com/video/BV1cm4y177eW) | [Youtube](https://youtu.be/xvCcQ-fVRic) 
 
-**205：浮点型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/204-Float) | [文章](https://binschool.app/solidity-basic/solidity-float.html) | [视频](https://binschool.app/solidity-basic/solidity-float.html)
+**205：浮点型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/204-Float) | [文章](https://binschool.app/solidity-basic/solidity-float.html) | [BiliBili](https://www.bilibili.com/video/BV1Xz4y147oJ) | [Youtube](https://youtu.be/UyNt6mRXb04) 
 
-**206：枚举型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/206-Enum) | [文章](https://binschool.app/solidity-basic/solidity-enum.html) | [视频](https://binschool.app/solidity-basic/solidity-enum.html)
-
+**206：枚举型**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/206-Enum) | [文章](https://binschool.app/solidity-basic/solidity-enum.html) | [BiliBili](https://www.bilibili.com/video/BV1Sh4y1L7uJ) | [Youtube](https://youtu.be/kcAsjDCbFqQ) 
 
 ## Soldity 变量
 
