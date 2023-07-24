@@ -26,7 +26,7 @@
 
 ## Soldity 变量
 
-**301：变量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/301-Variable) | [文章](https://binschool.app/solidity-basic/solidity-variable.html) | [视频](https://binschool.app/solidity-basic/solidity-variable.html)
+**301：变量**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/301-Variable) | [文章](https://binschool.app/solidity-basic/solidity-variable.html) | [Bilibili](https://www.bilibili.com/video/BV1jV411L7u2)  |  [Youtube](https://youtu.be/TkPPYdqVFlM)
 
 **302：可见性**：[代码](https://github.com/binschoolapp/solidity-basic/tree/main/302-Visibility) | [文章](https://binschool.app/solidity-basic/solidity-visibility.html)| [视频](https://binschool.app/solidity-basic/solidity-visibility.html)
 

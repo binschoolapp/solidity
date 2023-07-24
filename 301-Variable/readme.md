@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 变量的相关知识，包括变量命名、变量类型等。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1jV411L7u2)  |  [Youtube](https://youtu.be/TkPPYdqVFlM)
 <p align="center"><img src="./img/solidity-basic-v12.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)

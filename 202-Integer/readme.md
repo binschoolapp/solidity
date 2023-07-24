@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 数据类型中的整型，以及整型的相关运算。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1Nh4y1L7B9)  |  [Youtube](https://youtu.be/NrQKOkw5q9ws)
 <p align="center"><img src="./img/solidity-basic-v7.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
