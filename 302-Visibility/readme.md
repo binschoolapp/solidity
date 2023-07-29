@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 状态变量的可见性。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1ih4y1k71T)  |  [Youtube](https://youtu.be/60_Br5_hQTo)
 <p align="center"><img src="./img/solidity-basic-v13.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
