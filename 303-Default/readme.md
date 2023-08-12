@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 变量的默认值。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1vP411W7nR)  |  [Youtube](https://youtu.be/kp_K1-GcWMM)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
@@ -18,17 +18,17 @@
 
 ## 本类型的默认值
 
-**`bool`** 类型变量默认值为 false；
+**`bool`** 类型变量的默认值为 false；
 
-**`int`** 类型变量默认值为 0，包括各种长度的有符号整型 ，比如 int8、int16....；
+**`int`** 类型变量的默认值为 0，包括各种长度的有符号整型 ，比如 int8、int16....；
 
-**`uint`** 类型变量默认值为 0，包括各种长度的无符号整型，比如 uint8、uint16....；
+**`uint`** 类型变的量默认值为 0，包括各种长度的无符号整型，比如 uint8、uint16....；
 
-**`address`** 类型变量默认值为：0x0000...，共 40个 0；
+**`address`** 类型变量的默认值为：0x0000...，共 40个 0；
 
-**`bytes32`** 类型变量默认值为：0x0000...，共 64个 0；
+**`bytes32`** 类型变量的默认值为：0x0000...，共 64个 0；
 
-**`string`** 类型的默认值为：""；
+**`string`** 类型变量的默认值为：""；
 
 **`enum`** 类型的默认值是它列表中的第一项。
 
@@ -109,4 +109,4 @@ delete a; // 执行delete后，a = 0
 
 执行 **`delete`** 后，变量 **`a`** 依然可以访问，但它的值被初始化为默认值 0。
 
-**`delete`** 操作符的使用频率并不高，我们只需了解即可，不要对它的操作效果有误解。
+**`delete`** 操作符的使用频率并不高，我们只需了解它的用法就可以了，不要对它的操作效果有误解。
