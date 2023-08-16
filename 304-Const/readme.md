@@ -11,16 +11,16 @@
 **推特**：[@BinSchoolApp](https://twitter.com/BinSchoolApp)    **Discord**：[BinSchoolApp](https://discord.gg/PB2YEvggWq)   **微信**：bkra50 
 
 -----
-在智能合约中，如果一个状态变量的值恒定不变，就可以使用关键字 **`constant`** 或者 **`immutable`** 进行修饰，把它定义为常量，也称为“不可变量” 或者 “不变量”。
+在智能合约中，如果一个状态变量的值恒定不变，就可以使用关键字 **`constant`** 或者 **`immutable`** 进行修饰，把它定义为常量。
 
 ```solidity
 string constant SYMBOL = "WETH";
 uint256 immutable TOTAL_SUPPLY = 1000;
 ```
 
-常量的命名规则与变量相同，但通常使用大写字母表示，单词之间用下划线“_”连接。这不是强制性的规定，而是大家约定俗成的编程规范。
+常量的命名规则与变量相同，但通常使用大写字母表示，单词之间用下划线 “_” 连接，这样与变量更容易区分。这不是强制性的规定，而是大家约定俗成的编程规范。
 
-状态变量声明为 **`constant`** 和 **`immutable`** 后，就不能更改它的值了。
+状态变量一旦声明为 **`constant`** 和 **`immutable`** 后，就不能更改它的值了。
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -50,7 +50,7 @@ contract ConstType {
 
 ### 1. 初始化时机
 
-**`constant`** 关键字修饰的状态变量，必须在声明时显式赋值，然后就不允许修改了。
+**`constant`** 关键字修饰的状态变量，必须在声明时就立即显式赋值，然后就不再允许修改了。
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -61,7 +61,7 @@ contract ConstType {
 }
 ```
 
-**`constant`** 关键字修饰的状态变量，既可以在声明时显式赋值，又可以在合约部署时赋值，但是一旦赋值后就不能再修改了。
+**`immutable`** 关键字修饰的状态变量，既可以在声明时显式赋值，还可以在合约部署时赋值，也就是在构造函数 **`constructor`** 中赋值。但是，一旦赋值后就不能再修改了。
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -111,4 +111,4 @@ contract ConstType {
 
 ### 4. 节省 Gas
 
-使用常量比变量更节省 gas 成本。常量的值在编译时就已知且不可变，编译器可以将其值直接嵌入到合约代码中，避免了在运行时进行存储和访问的开销。
+使用常量比变量更节省 gas 成本，这也是非常重要的一点。常量的值在编译时就已知，且不可改变，编译器会将其值直接嵌入到合约代码中，避免了在运行时进行存储和访问的开销。
