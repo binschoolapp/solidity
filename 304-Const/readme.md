@@ -2,7 +2,9 @@
 
 本章学习 **`Solidity`** 中的两种常量的定义和用法，以及使用常量的好处。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1FV4y1e7Bd)  |  [Youtube](https://youtu.be/k1rFT0_xEWI)
+
+<p align="center"><img src="./img/solidity-basic-v15.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
