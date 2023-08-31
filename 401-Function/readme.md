@@ -2,7 +2,9 @@
 
 本章学习函数的定义和使用方法。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](bilibili.com/video/BV16m4y1T73a)  |  [Youtube](https://youtu.be/2WKdn-xuwbA?si=vgopFd2tEuOWT4vr)
+
+<p align="center"><img src="./img/solidity-basic-v16.png" align="middle" /></p>
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
@@ -13,7 +15,7 @@
 -----
 在 **`Solidity`** 中，函数是合约中的可执行代码块，用于定义合约的行为和操作。
 
-函数里包含一系列语句和逻辑，可以接受输入的参数，执行特定的操作，并返回结果。
+函数里包含一系列语句和业务逻辑，可以接受输入的参数，执行特定的操作，并返回结果。
 
 函数和状态变量是 **`Solidity`** 智能合约中最重要的组成部分。
 
@@ -182,7 +184,7 @@ contract FuncCall {
 }
 ```
 
-函数是 **`Solidity`** 合约的核心组成部分，用于实现合约的逻辑和功能。
+函数是 **`Solidity`** 合约的核心组成部分，用于实现合约的业务逻辑和功能。
 
 通过定义和调用函数，可以在合约中实现各种业务逻辑和操作，与其它合约进行交互，并实现合约与外部世界的通信。
 
