@@ -40,7 +40,9 @@
 
 **basic-402：状态可变性**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-402-StateMutability) | [文章](https://binschool.app/solidity-basic/solidity-state-mutability.html)
 
-**basic-403：构造函数**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-403-Constructor) | [文章](https://binschool.app/solidity-basic/solidity-constructor.html)
+**basic-403：构造函数 constructor**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-403-Constructor) | [文章](https://binschool.app/solidity-basic/solidity-constructor.html)
+
+**basic-404：接收函数 receive**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-403-Receive) | [文章](https://binschool.app/solidity-basic/solidity-receive.html)
 
 ## Soldity 控制语句
 

@@ -1,6 +1,6 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;403.构造函数
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;403.构造函数 constructor
 
-本章学习智能合约的构造函数。
+本章学习智能合约的构造函数 constructor。
 
 **视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
 
