@@ -95,3 +95,7 @@
 **demo-301：英国拍卖**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-301-AuctionEnglish) | [文章](https://binschool.app/solidity-demo/solidity-demo-auction-english.html)
 
 **demo-302：荷兰拍卖**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-302-AuctionDutch) | [文章](https://binschool.app/solidity-demo/solidity-demo-auction-dutch.html)
+
+## Solidity 代币合约
+
+**demo-401：ERC-20 代币合约**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-401-Erc20) | [文章](https://binschool.app/solidity-demo/solidity-demo-erc20.html)
