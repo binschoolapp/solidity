@@ -294,4 +294,4 @@ contract StableCoin is ERC20, Ownable {
 
 这是部署后的稳定币合约，我们可以直接调用它所提供的5个方面的功能，包括：**`ERC-20`** 合约的标准功能、权限控制功能、合约启停功能、资产冻结功能、供应控制功能。
 
-<p align="center"><img src="./img/example-erc20-metamask.png" align="middle" width="800px"/></p>
+<p align="center"><img src="./img/example-stablecoin-legal.png" align="middle" width="800px"/></p>
