@@ -154,4 +154,4 @@ contract CrowdFunding {
 
 第三步：当达到目标金额后，我们可以查看它的状态，**`close`** 变为 **`true`**，表示众筹完成。
 我们就可以通过 **`withdraw`** 提走筹集的资金。
-<p align="center"><img src="./img/xample-crowd-withdraw.png" align="middle" width="800px"/></p>
+<p align="center"><img src="./img/example-crowd-withdraw.png" align="middle" width="800px"/></p>
