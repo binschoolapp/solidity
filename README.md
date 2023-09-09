@@ -86,7 +86,7 @@
 
 ## Solidity 众筹投票
 
-**demo-201：众筹合约**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-201-CrowdFuding) | [文章](https://binschool.app/solidity-demo/solidity-demo-crowdfunding.html)
+**demo-201：众筹合约**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-201-CrowdFunding) | [文章](https://binschool.app/solidity-demo/solidity-demo-crowdfunding.html)
 
 **demo-202：投票合约**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-202-Voting) | [文章](https://binschool.app/solidity-demo/solidity-demo-voting.html)
 
