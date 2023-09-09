@@ -150,4 +150,4 @@ contract DutchAuction is Ownable {
 
 我们可以选择时机，在上方的 **`Value`** 处填写出价，点击 **`bid`** 进行投标。
 
-<p align="center"><img src="./img/example-auction-ductch.png" align="middle" width="800px"/></p>
+<p align="center"><img src="./img/example-auction-dutch.png" align="middle" width="800px"/></p>
