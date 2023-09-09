@@ -14,7 +14,7 @@
 
 **basic-201：数据类型**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-201-DataType) | [文章](https://binschool.app/solidity-basic/solidity-datatype.html) | [BiliBili](https://www.bilibili.com/video/BV1UF411Q7Y8) | [Youtube](https://youtu.be/PBrn_XJqi0I) 
 
-**202：整型**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-202-Integer) | [文章](https://binschool.app/solidity-basic/solidity-integer.html) | [BiliBili](https://www.bilibili.com/video/BV1Nh4y1L7B9) | [Youtube](https://youtu.be/NrQKOkw5q9ws) 
+**basic-202：整型**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-202-Integer) | [文章](https://binschool.app/solidity-basic/solidity-integer.html) | [BiliBili](https://www.bilibili.com/video/BV1Nh4y1L7B9) | [Youtube](https://youtu.be/NrQKOkw5q9ws) 
 
 **basic-203：布尔型**：[代码](https://github.com/binschoolapp/solidity/tree/main/203-Bool) | [文章](https://binschool.app/solidity-basic/solidity-bool.html) | [BiliBili](https://www.bilibili.com/video/BV18u411L7Ki) | [Youtube](https://youtu.be/85RWHNWTugw) 
 
