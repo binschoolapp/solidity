@@ -99,3 +99,5 @@
 ## Solidity 代币合约
 
 **demo-401：ERC-20 代币合约**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-401-Erc20) | [文章](https://binschool.app/solidity-demo/solidity-demo-erc20.html)
+
+**demo-402：通用权限控制合约**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-402-Ownable) | [文章](https://binschool.app/solidity-demo/solidity-demo-ownable.html)
