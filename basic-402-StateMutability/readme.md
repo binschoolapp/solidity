@@ -2,7 +2,7 @@
 
 本章学习函数的状态可变性。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1nm4y157qo)  |  [Youtube](https://youtu.be/VXHut7f-yLc?si=dARZTku7moireRmK)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
@@ -20,9 +20,13 @@ function function_name(<parameter list>) <visibility> <state mutability> [return
 }
 ```
 
-函数的状态可变性有 3 种：**`pure`**、**`view`**、**`payable`**。
+函数的状态可变性有 4 种：**`pure`**、**`view`**、**`payable`**、未标记状态。函数声明时必须设置正确的状态可变性，否则无法通过编译。  
 
-例如，在合约中定义一个加法函数，它的状态可变性设置为 **`pure`**：
+函数的状态可变性的设计目的是为了确保合约的安全性、可靠性和互操作性。
+
+状态可变性并不是以太坊虚拟机所要求的函数属性，纯粹是编译器的要求，也就是说与区块链本身没有直接关系。
+
+例如，在合约中定义一个加法函数，它的状态可变性设置为 **`pure`**，它定义的位置紧跟在可见性 **`public`** 之后。
 
 ```solidity
 function add(uint a, uint b) public pure returns(uint) {

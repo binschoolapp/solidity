@@ -127,7 +127,7 @@ contract Z is X,Y {
 如果写成：
 
 ```solidity
-contract Z is X,Y {
+contract Z is Y,X {
 }
 ```
 
