@@ -2,7 +2,7 @@
 
 本章学习智能合约的接收函数 receive。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1uN411J76U)  |  [Youtube](https://youtu.be/F5bEA1kJ8tk)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
@@ -43,7 +43,7 @@
 
 ## 2. Receive 函数
 
-在以太坊区块链上部署智能合约时产生的合约账户，并不都是可以存入以太币  **`ETH`** 的。一个智能合约如果允许存入以太币，就必须实现 **`recieve`** 或者 **`fallback`** 函数。
+在以太坊区块链上部署智能合约时产生的合约账户，并不都是可以存入以太币  **`ETH`** 的。一个智能合约如果允许存入以太币，就必须实现 **`recieve`** 或者 **`fallback`** 函数。如果一个智能合约中这两个函数都没有定义，那么它就不能接收以太币。
 
 如果只是为了让合约账户能够存入以太币，按照 **`solidity`** 语言规范，推荐使用 **`recieve`** 函数。因为 **`recieve`** 函数简单明了，目的明确，而 **`fallback`**  函数的用途相对复杂一些，我们将在后一章节详细讲解。
 
@@ -57,7 +57,7 @@ receive() external payable {
 
 **`recieve`** 函数有如下几个特点：
 
-- 1）无需使用 **`function`** 声明，只需要定义 **`recieve`** 函数。
+- 1）无需使用 **`function`** 声明。
 - 2）参数为空。
 - 3）可见性必须设置为 **`external`**。
 - 4）状态可变性必须设置为 **`payable`**。
@@ -68,7 +68,7 @@ receive() external payable {
 
 因为外部调用 **`send`** 和 **`transfer`** 方法进行转账的时候，为了防止重入攻击，**`gas`** 会限制在 2300。如果 **`recieve`** 的函数太复杂，就很容易会耗尽 **`gas`**，触发交易回滚。
 
-**`recieve`** 函数里有时候会执行一些简单记录日志的动作，比如触 **`event`**。
+**`recieve`** 函数里通常会执行一些简单记录日志的动作，比如触发 **`event`**。
 
 ```solidity
 // SPDX-License-Identifier: MIT
