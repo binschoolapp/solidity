@@ -2,7 +2,7 @@
 
 本章学习智能合约的构造函数 constructor。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1uN411J76U)  |  [Youtube](https://youtu.be/F5bEA1kJ8tk)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
@@ -46,7 +46,7 @@ contract FuncConstructor {
 
 构造函数的可见性不需要设置。
 
-构造函数的的状态可变性不能设置为 **`pure`** 或者 **`view`**，因为它是会改变合约状态的，因为构造函数通常用来初始化状态变量。
+构造函数的状态可变性不能设置为 **`pure`** 或者 **`view`**，因为它是会改变合约状态的，因为构造函数通常用来初始化状态变量。
 
 如果我们在部署一个合约的时候，同时需要向合约内存入一些以太币，那么就需要将构造函数的可见性设置为 **`payable`**。
 
