@@ -60,8 +60,7 @@ fallback () external payable {
 
 **`receive`** 和 **`fallback`** 的触发条件，可以参考以下流程：
 
-<p align="center"><img src="./img/solidity-fallback-process.png" align="middle" width="380px"/></p>
-
+<p align="center"><img src="./img/solidity-fallback-process.png" align="middle" width="519px"/></p>
 
 当参数 **`msg.data`** 为空时，就意味着：外部向合约进行转账，存入以太币。
 
@@ -98,10 +97,11 @@ contract FuncFallback {
 当我们向合约中存入以太币时，将会执行 **`fallback`** 函数，从而触发里面的 **`Fallback`** 事件。
 
 我们把这个合约部署在 **`Remix`** 上。然后，在 "VALUE" 栏中填入要发送给合约的金额（单位是 Wei），再点击 "Transact"， 存入以太币。
-<p align="center"><img src="./img/receive-eoa.png" align="middle" width="380px"/></p>
+
+<p align="center"><img src="./img/solidity-fallback-transfer.png" align="middle" width="800px"/></p>
 
 我们可以看到交易成功，并且触发了 **`Fallback`** 事件。
-<p align="center"><img src="./img/receive-eoa.png" align="middle" width="380px"/></p>
+<p align="center"><img src="./img/solidity-fallback-log.png" align="middle" width="800px"/></p>
 
 ### b) 第二种情况
 
@@ -130,10 +130,10 @@ contract FuncFallback {
 
 我们把这个合约部署在 **`Remix`** 上。然后，在 "VALUE" 栏中填入要发送给合约的金额，再点击 "Transact"， 存入以太币。
 
-<p align="center"><img src="./img/receive-eoa.png" align="middle" width="380px"/></p>
+<p align="center"><img src="./img/solidity-fallback-receive-transfer.png" align="middle" width="800px"/></p>
 
 我们可以看到交易成功，并且触发了 **`Receive`** 事件，但没有触发 **`Fallback`** 事件。
-<p align="center"><img src="./img/receive-eoa.png" align="middle" width="380px"/></p>
+<p align="center"><img src="./img/solidity-fallback-receive-log.png" align="middle" width="800px"/></p>
 
 ### c) 第三种情况
 依然使用上面的合约，当我们调用一个不存在的函数，将会触发 **`Fallback`** 事件。
@@ -160,7 +160,7 @@ contract FuncFallback {
 我们在 "CALLDATA" 栏中填入随意编写的 **`msg.data`** 数据，使之不为空，再点击 "Transact"。
 
 我们可以看到交易成功，并且触发了 **`Fallback`** 事件。
-<p align="center"><img src="./img/receive-eoa.png" align="middle" width="380px"/></p>
+<p align="center"><img src="./img/solidity-fallback-call.png" align="middle" width="800px"/></p>
 
 
 ## 4. fallback 使用场景
