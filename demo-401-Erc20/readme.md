@@ -43,13 +43,13 @@ function balanceOf(address account) external view returns (uint256)
 
 ### 1.3 transfer
 ```solidity
-function transfer(address to, uint256 amount) external view returns (bool)
+function transfer(address to, uint256 amount) external returns (bool)
 ``` 
 从调用者的地址，向目标地址 **`to`** 转移指定数量 **`amount`** 的代币。
 
 ### 1.4 approve
 ```solidity
-function approve(address spender, uint256 amount) external view returns (bool)
+function approve(address spender, uint256 amount) external returns (bool)
 ``` 
 授权指定地址 **`spender`** 能够从调用者的地址转移一定数量 **`amount`** 的代币。
 
@@ -62,7 +62,7 @@ function allowance(address owner, address spender) external view returns (uint25
 
 ### 1.6 transferFrom
 ```solidity
-function transferFrom(address from, address to, uint256 amount) external view returns (bool)
+function transferFrom(address from, address to, uint256 amount) external returns (bool)
 ``` 
 在授权的情况下，从一个地址 **`from`** 向另一个地址 **`to`** 转移指定数量 **`amount`** 的代币。
 
