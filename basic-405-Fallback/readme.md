@@ -1,6 +1,6 @@
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;404.接收函数 receive
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;405.回退函数 fallback
 
-本章学习智能合约的接收函数 receive。
+本章学习 **`Solidity`** 中的回退函数 **`fallback`**。
 
 **视频**：[Bilibili](https://www.bilibili.com/video/BV1uN411J76U)  |  [Youtube](https://youtu.be/F5bEA1kJ8tk)
 
