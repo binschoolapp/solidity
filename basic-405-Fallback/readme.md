@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 中的回退函数 **`fallback`**。
 
-**视频**：[Bilibili](https://www.bilibili.com/video/BV1uN411J76U)  |  [Youtube](https://youtu.be/F5bEA1kJ8tk)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1QM41197Fr)  |  [Youtube](https://youtu.be/L6aKkMrtI60)
 
 <p align="center"><img src="./img/solidity-basic-v19.png" align="middle" /></p>
 
