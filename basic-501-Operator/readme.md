@@ -2,7 +2,10 @@
 
 本章学习 **`Solidity`** 中的运算符。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1Q84y197sr)  |  [Youtube](https://youtu.be/WhKrXQnBNQo)
+
+<p align="center"><img src="./img/solidity-basic-v20.png" align="middle" /></p>
+
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
