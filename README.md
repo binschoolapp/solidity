@@ -49,7 +49,8 @@
 
 ## Soldity 控制语句
 
-**basic-501：运算符**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-501-Operator) | [文章](https://binschool.app/solidity-basic/solidity-operator.html)
+**basic-501：运算符**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-501-Operator) | [文章](https://binschool.app/solidity-basic/solidity-operator.html) | [Bilibili](https://www.bilibili.com/video/BV1Q84y197sr)  |  [Youtube](https://youtu.be/WhKrXQnBNQo)
+
 
 **basic-502：条件语句**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-basic-502-Condition) | [文章](https://binschool.app/solidity-basic/solidity-condition.html)
 
