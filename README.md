@@ -1,4 +1,4 @@
-# BinShool Solidity 基础教程
+# BinShool Solidity教程
 
 **basic-101：概述**：[代码](https://github.com/binschoolapp/solidity/tree/main/basic-101-Index) | [文章](https://binschool.app/solidity-basic/solidity-basic-index.html) | [BiliBili](https://www.bilibili.com/video/BV1c14y1R7L3) | [Youtube](https://youtu.be/WwU_05Wl1bo) 
 
