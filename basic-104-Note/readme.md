@@ -62,7 +62,7 @@ NATSpec 格式使用 /// 加上标签的注释方法，进行单行注释。使�
 
 ```solidity
 /// @title 计算器合约
-/// @author BinSchool
+/// @author 作者
 /// @notice 这是功能描述
 /// @dev 这里是实现细节
 contract Calculator {
@@ -83,7 +83,7 @@ contract Calculator {
 
 ```solidity
 /// @title 计算器合约
-/// @author BinSchool
+/// @author 作者
 /// @notice 这是功能描述
 /// @dev 这里是实现细节
 contract Calculator {
