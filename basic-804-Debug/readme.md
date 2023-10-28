@@ -1,5 +1,5 @@
 
-# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;803.调试和异常处理
+# Solidity基础教程:&nbsp;&nbsp;&nbsp;&nbsp;804.调试和异常处理
 
 本章学习 Solidity 代码如何调试，以及处理异常的常用方法。
 
