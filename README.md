@@ -114,4 +114,6 @@
 
 **demo-404：包装型代币**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-404-WrappedCoin) | [文章](https://binschool.app/solidity-demo/solidity-demo-wrapped-coin.html)
 
-**demo-501：锁仓释放**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-404-VestingLockup) | [文章](https://binschool.app/solidity-demo/solidity-demo-vesting-lockup.html)
+**demo-501：锁仓释放**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-501-VestingLockup) | [文章](https://binschool.app/solidity-demo/solidity-demo-vesting-lockup.html)
+
+**demo-502：线性释放**：[代码](https://github.com/binschoolapp/solidity/tree/main/demo-502-Vesting) | [文章](https://binschool.app/solidity-demo/solidity-demo-vesting.html)
