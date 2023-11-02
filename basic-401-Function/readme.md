@@ -188,4 +188,33 @@ contract FuncCall {
 
 通过定义和调用函数，可以在合约中实现各种业务逻辑和操作，与其它合约进行交互，并实现合约与外部世界的通信。
 
-关于函数的状态可变性，我们将在下一章详细讲解。
+## 6. 函数重载
+
+**`Solidity`** 语言支持函数重载，是指在同一合约中允许定义多个同名函数，但必须具有不同的参数。
+
+所谓不同的参数，是指参数个数、参数类型或者参数顺序，必须其中之一不同。我们可以参照下面的合约例子进行理解。
+
+```solidity
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Overload {
+  // 一个参数
+  function foo(uint256 a) pure public returns(uint256){
+    return a;
+  }
+  // 两个参数，参数数量不同
+  function foo(uint256 a, address b) pure public returns(uint256, address){
+    return (a,b);
+  }
+  // 两个参数，参数类型不同
+  function foo(uint256 a, uint256 b) pure public returns(uint256, uint256){
+    return (a,b);
+  }
+  // 两个参数，参数顺序不同
+  function foo(address b, uint256 a) pure public returns(uint256, address){
+    return (a,b);
+  }
+}
+```
