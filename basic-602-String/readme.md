@@ -88,7 +88,7 @@ contract DynamicBytes {
 
 在 **`Solidity`** 中，字符串是用来存储文本数据的类型。
 
-字符串值使用双引号(")或单引号(')包括，字符串类型用 **`string`** 表示。
+字符串值使用双引号 (") 或单引号 (') 包裹，字符串类型用 **`string`** 表示。
 
 ```solidity
 string public myString = "Hello World";
@@ -143,3 +143,34 @@ contract BytesConvertor {
 ```
 
 运行上述合约，调用 **stringToBytes** 函数后，返回字节数组 "0x48656c6c6f20576f726c64"。
+
+### 3.3 获得字符串长度
+
+字符串并没有直接获得长度的函数，需要先转换为 **`bytes`**，再求其长度。
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract StringLen {
+    function len() external pure returns (uint) {
+        string memory myString = "Hello World";
+        return bytes(myString).length; 
+    }
+}
+```
+
+### 3.4 支持 unicode 编码
+
+如果字符串中含有 **`unicode`** 编码的字符，比如表情符号或者中文，那么就需要在赋值的时候进行声明，否则会报错。
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract StringUnicode {
+    function greet() external pure returns (string memory) {
+        return unicode"Hello 王泽宾";
+    }
+}
+```

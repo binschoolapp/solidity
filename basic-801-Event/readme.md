@@ -107,7 +107,7 @@ event Transfer(address indexed from, address indexed to, uint256 value);
 
 - 过滤事件
 
-外部应用程序可以使用索引参数来过滤感兴趣的事件。例如，根据发送者或接收者地址过滤特定用户的交易事件。
+通过索引参数，外部应用程序可以过滤感兴趣的事件。例如，根据发送者或接收者地址过滤特定用户的交易事件。
 
 - 高效搜索
 
@@ -119,4 +119,4 @@ event Transfer(address indexed from, address indexed to, uint256 value);
 
 1. 一个事件中 **`indexed`** 标记的参数最多有 3 个。
 
-2. 记录区块链的日志，既可以使用状态变量，也可以使用事件，但事件使用的 gas 要比状态变量低。
+2. 记录区块链的日志，可以使用事件，也可以使用状态变量，但事件使用的 **`gas`** 要比状态变量低。

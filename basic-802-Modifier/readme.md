@@ -22,7 +22,7 @@
 ```solidity
 modifier modifier-name(parameter1, parameter2, ...) {
     // 在函数执行前执行的逻辑
-    _; // 继续执行被修饰的函数
+    _; // 执行被修饰的函数
     // 在函数执行后执行的逻辑
 }
 ```
@@ -47,7 +47,7 @@ modifier modifier-name(parameter1, parameter2, ...) {
 
 - **特殊符号 _**
 
-_; 表示被修饰函数的执行位置。
+_ 表示被修饰函数的执行位置。
 
 ## 2. 使用方法
 
@@ -67,7 +67,7 @@ contract Modifier {
 
   modifier onlyOwner() {
     require(msg.sender == owner, "Only owner can call this function");
-    _; // 继续执行被修饰的函数
+    _; // 执行被修饰的函数
   }
 
   // 构造函数，保存合约部署者地址
