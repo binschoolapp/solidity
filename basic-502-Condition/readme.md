@@ -2,7 +2,7 @@
 
 本章学习 **`Solidity`** 中的条件语句。
 
-**视频**：[Bilibili](https://#)  |  [Youtube](https://www.youtube.com/@BinSchoolApp)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1Ub4y1u7hM)  |  [Youtube](https://youtu.be/G24EPHMrTy8)
 
 **官网**：[BinSchoolApp](https://binschool.app)
 
